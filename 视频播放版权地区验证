@@ -1,0 +1,7 @@
+#视频播放版权地区验证
+
+#芒果
+DOMAIN-SUFFIX,pcweb.api.mgtv.com
+
+#腾讯视频
+DOMAIN-SUFFIX,vd.l.qq.com
